@@ -10,11 +10,17 @@ namespace API_Biblio
 
         public Categorie(int idCat, string name, int count, string description, string image)
         {
-            this.idCat = idCat;
-            this.name = name;
-            this.count = count;
-            this.description = description;
-            this.image = image;
+            this.IdCat = idCat;
+            this.Name = name;
+            this.Count = count;
+            this.Description = description;
+            this.Image = image;
         }
+
+        public int IdCat { get => idCat; set => idCat = value; }
+        public string Name { get => name; set => name = value; }
+        public int Count { get => count; set => count = value; }
+        public string Description { get => description; set => description = value; }
+        public string Image { get => image; set => image = value; }
     }
 }

@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\biblio\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|solutionrelative:biblio\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\categorie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\biblio\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|solutionrelative:biblio\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\controllers\\categoriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\biblio\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|solutionrelative:biblio\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\biblio\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|solutionrelative:biblio\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\api_biblio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\api_biblio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\biblio\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|solutionrelative:biblio\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\biblio\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\biblio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E050A6D1-1FE0-4302-8B22-B457E656F426}|Biblio\\Biblio.csproj|solutionrelative:biblio\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|c:\\laragon\\www\\coremanager\\missionappmobile\\api_biblio\\api_biblio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{BC83696D-1947-477C-9C26-9B998C056358}|API_Biblio\\API_Biblio.csproj|solutionrelative:api_biblio\\api_biblio.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,34 +62,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "Biblio\\MainPage.xaml.cs",
               "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\MainPage.xaml.cs",
               "RelativeToolTip": "Biblio\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-11T09:43:54.421Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\MainPage.xaml",
               "RelativeDocumentMoniker": "Biblio\\MainPage.xaml",
               "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\MainPage.xaml",
               "RelativeToolTip": "Biblio\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-03-11T09:36:17.229Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -74,6 +102,94 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API_Biblio\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API_Biblio\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T14:12:12.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategorieController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Controllers\\CategorieController.cs",
+              "RelativeDocumentMoniker": "API_Biblio\\Controllers\\CategorieController.cs",
+              "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Controllers\\CategorieController.cs",
+              "RelativeToolTip": "API_Biblio\\Controllers\\CategorieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:28:48.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categorie.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Categorie.cs",
+              "RelativeDocumentMoniker": "API_Biblio\\Categorie.cs",
+              "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Categorie.cs",
+              "RelativeToolTip": "API_Biblio\\Categorie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:25:47.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "API_Biblio\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "API_Biblio\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:19:18.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Biblio\\appsettings.json",
+              "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\appsettings.json",
+              "RelativeToolTip": "API_Biblio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T13:18:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "API_Biblio\\WeatherForecast.cs",
+              "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\WeatherForecast.cs",
+              "RelativeToolTip": "API_Biblio\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:18:43.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Program.cs",
+              "RelativeDocumentMoniker": "API_Biblio\\Program.cs",
+              "ToolTip": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\Program.cs",
+              "RelativeToolTip": "API_Biblio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T13:18:35.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\AppShell.xaml",
               "RelativeDocumentMoniker": "Biblio\\AppShell.xaml",
@@ -85,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\App.xaml",
               "RelativeDocumentMoniker": "Biblio\\App.xaml",
@@ -97,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\MauiProgram.cs",
               "RelativeDocumentMoniker": "Biblio\\MauiProgram.cs",
@@ -109,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "API_Biblio.http",
               "DocumentMoniker": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\API_Biblio.http",
               "RelativeDocumentMoniker": "API_Biblio\\API_Biblio.http",

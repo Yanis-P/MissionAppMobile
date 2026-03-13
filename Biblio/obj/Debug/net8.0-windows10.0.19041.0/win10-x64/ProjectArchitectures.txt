@@ -1,1 +1,1 @@
-C:\Users\yanis\Desktop\Cours\C#\MissionAppMobile\Biblio\Biblio.csproj;x64
+C:\laragon\www\CoreManager\MissionAppMobile\Biblio\Biblio.csproj;x64
