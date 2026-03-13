@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Biblio
-build_property.ProjectDir = C:\Users\yanis\Desktop\Cours\C#\MissionAppMobile\Biblio\
+build_property.ProjectDir = C:\laragon\www\CoreManager\MissionAppMobile\Biblio\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/yanis/Desktop/Cours/C\#/MissionAppMobile/Biblio/App.xaml]
+[C:/laragon/www/CoreManager/MissionAppMobile/Biblio/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Biblio.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/yanis/Desktop/Cours/C\#/MissionAppMobile/Biblio/AppShell.xaml]
+[C:/laragon/www/CoreManager/MissionAppMobile/Biblio/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Biblio.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/yanis/Desktop/Cours/C\#/MissionAppMobile/Biblio/MainPage.xaml]
+[C:/laragon/www/CoreManager/MissionAppMobile/Biblio/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Biblio.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/yanis/Desktop/Cours/C\#/MissionAppMobile/Biblio/Resources/Styles/Colors.xaml]
+[C:/laragon/www/CoreManager/MissionAppMobile/Biblio/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Biblio.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/yanis/Desktop/Cours/C\#/MissionAppMobile/Biblio/Resources/Styles/Styles.xaml]
+[C:/laragon/www/CoreManager/MissionAppMobile/Biblio/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Biblio.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

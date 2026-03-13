@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\Biblio\\Biblio.csproj": {}
+    "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\Biblio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\Biblio\\Biblio.csproj": {
+    "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\Biblio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\Biblio\\Biblio.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\Biblio.csproj",
         "projectName": "Biblio",
-        "projectPath": "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\Biblio\\Biblio.csproj",
-        "packagesPath": "C:\\Users\\yanis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\Biblio\\obj\\",
+        "projectPath": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\Biblio.csproj",
+        "packagesPath": "C:\\Users\\admin2\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\Biblio\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yanis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,7 +127,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-ios1.0": {
           "targetAlias": "net8.0-ios",
@@ -161,7 +161,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-maccatalyst1.0": {
           "targetAlias": "net8.0-maccatalyst",
@@ -195,7 +195,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         },
         "net8.0-windows10.0.19041": {
           "targetAlias": "net8.0-windows10.0.19041.0",
@@ -238,7 +238,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

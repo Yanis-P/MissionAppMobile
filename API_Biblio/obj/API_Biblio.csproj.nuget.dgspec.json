@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj": {}
+    "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj": {
+    "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj",
+        "projectUniqueName": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj",
         "projectName": "API_Biblio",
-        "projectPath": "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj",
-        "packagesPath": "C:\\Users\\yanis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yanis\\Desktop\\Cours\\C#\\MissionAppMobile\\API_Biblio\\obj\\",
+        "projectPath": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\API_Biblio.csproj",
+        "packagesPath": "C:\\Users\\admin2\\.nuget\\packages\\",
+        "outputPath": "C:\\laragon\\www\\CoreManager\\MissionAppMobile\\API_Biblio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\yanis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
